@@ -25,9 +25,7 @@ Submitted To Sir Behram
  
 
 ## Project Title: Library Management System
-•	Submitted by:
-o	Zakir Ullah (24PWDCS0162)
-o	Muhammad Kashif (24PWDCS0168)
+
 
 •	Date: 15th June , 2025
 •	Course: Object Oriented Programing
